@@ -1,0 +1,12 @@
+{
+    "name": "Torres de Hanoi",
+    "short name": "Torres de Hanoi",
+    "start_url": "Inicio.html",
+     "display": "standalone",
+    "background_color": "ff88ff",
+    "lang": "es",
+    "scope": "/",
+    "description": "",
+    "orientation": "landscape-primary",
+    "theme_color": "#000"
+}
