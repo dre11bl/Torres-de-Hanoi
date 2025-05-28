@@ -1,7 +1,7 @@
 {
     "name": "Torres de Hanoi",
     "short name": "Torres de Hanoi",
-    "start_url": "Inicio.html",
+    "start_url": "index.html",
      "display": "standalone",
     "background_color": "ff88ff",
     "lang": "es",
